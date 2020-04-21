@@ -1,0 +1,6 @@
+com\covid\rest\service\CaseService.class
+com\covid\rest\service\CaseServiceImpl.class
+com\covid\rest\dao\CaseDaoImpl.class
+com\covid\rest\model\Case.class
+com\covid\rest\controller\CaseController.class
+com\covid\rest\dao\CaseDao.class
